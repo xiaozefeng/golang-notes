@@ -6,12 +6,13 @@
 4. cmd + shift + d -> 调试器
 5. cmd + shift + x -> 扩展
 6. cmd +b  ->  显示/隐藏 目录树
-7. cmd + p 
-8. cmd + shift + p  -> 显示命令行
-9. control + ~ -> 显示/隐藏 终端
+7. cmd + p -> 文件搜索
+8. cmd + shift + p  -> 显示所用命令
+9. control + ` -> 显示/隐藏 终端
 10. cmd + \ -> 竖屏分屏
 11. control + tab -> 切换到最近使用的编辑器
 12. cmd + shift +v -> 预览markdown
+13. cmd + k v -> 在侧边打开预览
 13. cmd +k cmd -> +\ 横屏分屏
 14. cmd +k + c -> 对比当前文件和剪切板
 15. cmd + shift + o -> 方法列表
@@ -19,6 +20,9 @@
 17. cmd + shift + t -> 重新打开已经关闭的编辑器
 18. cmd +k cmd + s -> 快捷键管理
 19. cmd +k cmd + t -> 主题选择
+20. cmd + alt + 0 -> 切换横屏/竖屏
+21. cmd + shift + [ -> 打开上一个编辑器
+22. cmd + shift + ] -> 打开下一个编辑器
 
 ## 目录树操作
 1. j 向上移动
