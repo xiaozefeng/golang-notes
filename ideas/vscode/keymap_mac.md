@@ -10,6 +10,15 @@
 8. cmd + shift + p  -> 显示命令行
 9. control + ~ -> 显示/隐藏 终端
 10. cmd + \ -> 竖屏分屏
+11. control + tab -> 切换到最近使用的编辑器
+12. cmd + shift +v -> 预览markdown
+13. cmd +k cmd -> +\ 横屏分屏
+14. cmd +k + c -> 对比当前文件和剪切板
+15. cmd + shift + o -> 方法列表
+16. cmd + shift + \ -> 转到括号
+17. cmd + shift + t -> 重新打开已经关闭的编辑器
+18. cmd +k cmd + s -> 快捷键管理
+19. cmd +k cmd + t -> 主题选择
 
 ## 目录树操作
 1. j 向上移动
@@ -20,3 +29,11 @@
 1. ctrl + w + h   -> 从编辑器跳转到目录树 (必须在vim normal模式下)
 
 
+## 自定义快捷键
+1. alt + s -> 触发建议
+2. alt + cmd + p -> 参数建议
+3. alt + cmd + b -> 转到实现
+4. go: add import -> alt +p
+5. go: generate interface stubs -> alt +i
+6. go: generate unit tests for function -> alt + g
+7. go: test function at cursor -> alt +ts
